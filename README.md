@@ -45,7 +45,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 Install Reason Commons and start it:
 
 ```sh
-uv tool install git+https://github.com/life-itself/reason-commons-tui
+uv tool install git+https://github.com/reasoncommons/reason-commons-tui
 reason-commons
 ```
 
@@ -77,7 +77,7 @@ With [uv](https://docs.astral.sh/uv/) installed (see above), add the Reason Comm
 plugin. It brings the skill and its server, with Claude Code as the consultant:
 
 ```sh
-claude plugin marketplace add life-itself/reason-commons-tui
+claude plugin marketplace add reasoncommons/reason-commons-tui
 claude plugin install reason-commons@reason-commons --scope user
 ```
 
@@ -176,7 +176,7 @@ works. The first is one time-boxed review of the whole model.
 
 [The six trees, explained](docs/the-trees.md) shows how to read each one, using
 the Second Renaissance's
-[tree-by-tree analysis](https://github.com/life-itself/reasoncommons/tree/main/ltp).
+[tree-by-tree analysis](https://github.com/reasoncommons/reasoncommons/tree/main/ltp).
 
 ### You decide what enters your model
 
@@ -288,7 +288,7 @@ The order follows the [delivery plan](reason-commons-spec/delivery-phases.md).
 - [The six trees, explained](docs/the-trees.md) and [the loop, explained](docs/the-loop.md).
 - [Workspace reference](docs/tui.md): keys, views, commands and settings.
 - [All documentation](docs/README.md).
-- Questions or ideas: [open an issue](https://github.com/life-itself/reason-commons-tui/issues).
+- Questions or ideas: [open an issue](https://github.com/reasoncommons/reason-commons-tui/issues).
 
 ## Contributing
 

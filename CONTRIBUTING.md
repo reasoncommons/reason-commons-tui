@@ -9,7 +9,7 @@ Start with [AGENTS.md](AGENTS.md) for the working rules, then the
 ## Set up
 
 ```sh
-git clone https://github.com/life-itself/reason-commons-tui.git
+git clone https://github.com/reasoncommons/reason-commons-tui.git
 cd reason-commons-tui
 python3 -m venv .venv && source .venv/bin/activate
 python3 -m pip install --upgrade pip   # macOS ships an old pip that cannot install this

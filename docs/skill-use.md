@@ -21,7 +21,7 @@ The easiest way is the plugin in this repository. With
 [uv](https://docs.astral.sh/uv/) installed:
 
 ```sh
-claude plugin marketplace add life-itself/reason-commons-tui
+claude plugin marketplace add reasoncommons/reason-commons-tui
 claude plugin install reason-commons@reason-commons --scope user
 ```
 
@@ -39,7 +39,7 @@ Without the plugin, set it up by hand once:
    uv provides):
 
    ```sh
-   uv tool install 'reason-commons[mcp] @ git+https://github.com/life-itself/reason-commons-tui'
+   uv tool install 'reason-commons[mcp] @ git+https://github.com/reasoncommons/reason-commons-tui'
    ```
 
    In a clone, `.venv/bin/python -m pip install -e '.[mcp]'` does the same.
@@ -55,7 +55,7 @@ Without the plugin, set it up by hand once:
    already links it. To use it from any folder, link it for your user:
 
    ```sh
-   git clone https://github.com/life-itself/reason-commons-tui ~/reason-commons-tui
+   git clone https://github.com/reasoncommons/reason-commons-tui ~/reason-commons-tui
    mkdir -p ~/.claude/skills
    ln -s ~/reason-commons-tui/skills/reason-commons-contribute ~/.claude/skills/reason-commons-contribute
    ```

@@ -33,5 +33,5 @@ def test_the_plugin_server_uses_the_host_consultant_in_the_workspace_folder():
     assert "${" not in script
     assert '"$HOME/.local/bin' in script and 'root="$REASON_COMMONS_HOME"' in script and 'root="$HOME/ReasonCommons"' in script
     command = shlex.split(script.split("exec ", 1)[1])
-    assert command[:3] == ["uvx", "--from", "reason-commons[mcp] @ git+https://github.com/life-itself/reason-commons-tui"]
+    assert command[:3] == ["uvx", "--from", "reason-commons[mcp] @ git+https://github.com/reasoncommons/reason-commons-tui"]
     assert command[3:] == ["reason-commons", "mcp", "--commons-root", "$root", "--provider", "host"]

@@ -1,7 +1,7 @@
 """Draw the six thinking-process trees used in the README and docs/the-trees.md.
 
 The content is the Second Renaissance analysis in the reasoncommons guide
-(github.com/life-itself/reasoncommons, ltp/02 to ltp/07), with labels shortened to
+(github.com/reasoncommons/reasoncommons, ltp/02 to ltp/07), with labels shortened to
 fit a box. The pictures are illustrations of the method: the app does not draw
 these trees yet. Each SVG follows the reader's light or dark colour scheme.
 

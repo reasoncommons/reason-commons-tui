@@ -1,7 +1,7 @@
 """Write the finished example's trees as an LTP 1.0 file.
 
 The source is the Second Renaissance analysis in the reasoncommons guide
-(github.com/life-itself/reasoncommons, ltp/ltp-model.yaml, MIT licence), the same
+(github.com/reasoncommons/reasoncommons, ltp/ltp-model.yaml, MIT licence), the same
 analysis the README draws. That model has its own format; this script maps it onto
 the LTP 1.0 interchange vocabulary the app reads. A statement that appears in two
 views becomes one statement per view, because an LTP statement belongs to one tree.

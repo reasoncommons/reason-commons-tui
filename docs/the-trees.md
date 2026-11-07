@@ -9,7 +9,7 @@ place, agree on it and act.
 
 Each tree answers one question. The example throughout is the Second Renaissance
 movement, analysed from its own documents in the
-[Reason Commons guide](https://github.com/life-itself/reasoncommons/tree/main/ltp).
+[Reason Commons guide](https://github.com/reasoncommons/reasoncommons/tree/main/ltp).
 Labels in the pictures are shortened; the guide has the full wording, evidence and
 open questions for every box.
 
@@ -205,7 +205,7 @@ See [the loop, explained](the-loop.md) and the [tutorial](tutorial.md).
 
 ## Read more
 
-The [LTP guide](https://github.com/life-itself/reasoncommons/tree/main/ltp) has the
+The [LTP guide](https://github.com/reasoncommons/reasoncommons/tree/main/ltp) has the
 complete Second Renaissance analysis, including evidence, assumptions and the
 recommended next action. The [specification](../reason-commons-spec/reason-commons-specification.md)
 describes how each tree will work in the app.

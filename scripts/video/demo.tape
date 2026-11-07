@@ -162,5 +162,5 @@ Sleep 500ms
 Enter
 Sleep 5s
 
-Type "# github.com/life-itself/reason-commons-tui"
+Type "# github.com/reasoncommons/reason-commons-tui"
 Sleep 5s

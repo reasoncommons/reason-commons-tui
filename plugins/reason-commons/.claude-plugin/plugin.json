@@ -6,7 +6,7 @@
     "name": "Life Itself",
     "url": "https://github.com/life-itself"
   },
-  "homepage": "https://github.com/life-itself/reason-commons-tui",
-  "repository": "https://github.com/life-itself/reason-commons-tui",
+  "homepage": "https://github.com/reasoncommons/reason-commons-tui",
+  "repository": "https://github.com/reasoncommons/reason-commons-tui",
   "license": "MIT"
 }
